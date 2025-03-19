@@ -5,3 +5,9 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
+body {
+    background-image: url('https://raw.githubusercontent.com/saikatdina/bsp-brta-gov-bd/refs/heads/main/body_bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
